@@ -6,6 +6,9 @@ g = 9.8 #m/s
 def find_KE(mass,v):
     return (mass*v**2)/2
 
+def v_from_KE(mass, KE):
+    return m.sqrt((2*KE)/(mass))
+
 def find_PEg(mass,h):
     return mass * g * h
 
