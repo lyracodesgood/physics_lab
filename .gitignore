@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+
+src/physics_lab/scratchpad.py
