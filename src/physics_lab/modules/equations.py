@@ -9,7 +9,7 @@ def find_KE(mass,v):
 def v_from_KE(mass, KE):
     return m.sqrt((2*KE)/(mass))
 
-def find_PEg(mass,h):
+def find_PEg(mass,h,g=g):
     return mass * g * h
 
 #vector addition
