@@ -1,0 +1,1 @@
+This project is meant to assist with physics calculations in python. I am developing it to use in physics 1 and 2. I am also making this project to practice using uv, so this is a dual purpose project.
